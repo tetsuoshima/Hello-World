@@ -1,6 +1,6 @@
 
 HelloWorld/_ReSharper.HelloWorld
 HelloWorld/HelloWorld.suo
-HelloWorld/HelloWorld/bin/Debug
-HelloWorld/HelloWorld/bin/Bin
-HelloWorld/HelloWorld.suo
+HelloWorld/HelloWorld/bin
+HelloWorld/HelloWorld/obj
+
