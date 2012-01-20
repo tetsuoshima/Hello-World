@@ -1,0 +1,5 @@
+D:\temp\HelloWorldGit\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\temp\HelloWorldGit\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\temp\HelloWorldGit\Hello-World\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\HelloWorldGit\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\temp\HelloWorldGit\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
