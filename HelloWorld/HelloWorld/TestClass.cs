@@ -7,5 +7,7 @@ namespace HelloWorld
 {
     class TestClass
     {
+        public string Test { get; private set; }
+
     }
 }
